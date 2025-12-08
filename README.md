@@ -16,26 +16,6 @@ Combines COMELEC election results with BLGF fiscal performance: expenditures, re
 
 ---
 
-##  Folder Structure
-
-├── README.md
-├── DATASETS_OVERVIEW.md
-├── HACKATHON_GUIDE.md
-├── data/
-│   ├── flood_control/
-│   │   ├── DATA_DICTIONARY.md
-│   │   └── NOTES_LIMITATIONS.md
-│   └── comelec_fiscal/
-│       ├── DATA_DICTIONARY.md
-│       └── NOTES_LIMITATIONS.md
-├── docs/
-│   ├── ETHICAL_USE.md
-│   └── SCORING_RUBRIC.md
-└── starter_code/
-├── python_starter.ipynb
-└── r_starter.R
-
----
 
 ## Purpose
 
