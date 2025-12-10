@@ -125,16 +125,29 @@ Funding from:
 ## Data Sources Used
 
 [Philippines – Country Profile – Transparency International](https://www.transparency.org/en/countries/philippines)
+
 [PH Ranks 114th Among 180 Countries in 2024 Corruption Index – GMA News Online](https://www.gmanetwork.com/news/topstories/nation/958048/ph-ranks-114th-among-180-countries-in-2024-corruption-index/story/)
+
 [Flood Control Fiasco: A Policy Reckoning for Accountability in the Philippines – Center for Integrative and Development Studies (UP CIDS)](https://cids.up.edu.ph/flood-control-fiasco-a-policy-reckoning-for-accountability-in-the-philippines/)
+
 [Flood Control Corruption: An Obscene Plunder of Much-Needed Climate Funds – Greenpeace Philippines](https://www.greenpeace.org/philippines/press/68522/flood-control-corruption-an-obscene-plunder-of-much-needed-climate-funds/)
+
 [Cracks in the Wall: How Flood Control Funds Sink into Corruption While Filipinos Drown – Reality of Aid](https://realityofaid.org/cracks-in-the-wall-how-flood-control-funds-sink-into-corruption-while-filipinos-drown/)
+
 [Accountability Washed Away in Philippine Flood Control Corruption – East Asia Forum](https://eastasiaforum.org/2025/12/02/accountability-washed-away-in-philippine-flood-control-corruption/)
+
 [Philippines’ Ranking Inches Up in Global Corruption Perceptions Index – Philippine Institute for Development Studies (PIDS)](https://www.pids.gov.ph/details/news/in-the-news/philippines-ranking-inches-up-in-global-corruption-perceptions-index)
+
 [How Flood Control Projects Fail the Poor in the Philippines – PreventionWeb](https://www.preventionweb.net/news/how-flood-control-projects-fail-poor-philippines)
+
 [E‑procurement and firm corruption to secure public contracts: The moderating role of governance institutions and supranational support (2022, Journal of Business Research)](https://www.sciencedirect.com/science/article/abs/pii/S0148296322005070)
+
 [Detection of fraud in public procurement using data‑driven methods: a systematic mapping study (2025, EPJ Data Science)](https://link.springer.com/article/10.1140/epjds/s13688-025-00569-3)
+
 [The Expediting Effect of Monitoring on Infrastructural Works (2021)](https://arxiv.org/abs/2102.09625)
+
 [Global reviews of e‑procurement / open contracting (e.g. by the Open Contracting Partnership, NGOs and research)](https://www.open-contracting.org/anticorruption/)
+
 [Recent reforms in the Philippines (New Government Procurement Act / NGPA, 2024)](https://www.philstar.com/opinion/2025/05/24/2445339/uncac-action-philippines-digital-reforms-advance-anti-corruption-commitments)
+
 [Pilot / real‑world experiment: use of blockchain / digital tracking by Department of Public Works and Highways (DPWH)](https://www.philstar.com/the-freeman/opinion/2025/10/17/2480436/blockchain-technology-curb-corruption)
