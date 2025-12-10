@@ -14,6 +14,9 @@ The IPAG–InfraWatch Act of 2025 is a proposed Philippine law that establishes 
 
 ## Technology Stack
 
+### Documentation 
+Markdown (README.md)
+
 
 ## Methodology
 Our approach followed a structured data pipeline:
@@ -38,7 +41,13 @@ Created charts to make findings accessible
 3. Ensured reproducibility by documenting the workflow and versioning the dataset.
 
 ## Insights and Analysis
+From 2016 to 2022, the Duterte administration oversaw major flood-control and infrastructure programs under the Build, Build, Build initiative. While the plan expanded the national budget for drainage, river rehabilitation, and dike construction, several reports—such as COA audit findings and investigative research by the UP Center for Integrative and Development Studies (CIDS)—highlighted persistent issues in procurement, delayed project completion, and irregularities in contractor selection. 
 
+These weaknesses created vulnerabilities that allowed overpriced materials, incomplete deliverables, and potential contractor collusion to occur, revealing systemic accountability gaps. When leadership shifted to the Marcos Jr. administration in 2023 to 2025, many flood-control projects continued midstream, inheriting the structural problems from the previous regime. 
+
+Despite increased digitalization efforts and public transparency pledges, recurring anomalies and stalled flood-mitigation works indicate that the administration still struggles with entrenched procurement flaws, weak oversight mechanisms, and fragmented coordination between DPWH, LGUs, and national bodies. 
+
+This continuity of issues across two administrations shows that corruption in flood-control programs is not tied to a single leadership but to long-standing institutional weaknesses, highlighting the need for stronger, tech-enabled, and citizen-inclusive monitoring frameworks such as the proposed IPAG–InfraWatch Act of 2025.
 
 ## Setup and Installation Guide
 
