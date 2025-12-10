@@ -16,6 +16,26 @@ The IPAG–InfraWatch Act of 2025 is a proposed Philippine law that establishes 
 
 
 ## Methodology
+Our approach followed a structured data pipeline:
+
+### Data Collection
+1. Excel dataset containing allotted budget per project from 2018 to 2025.
+2. Covers multiple years across different presidential administrations.
+3. Established a baseline for analyzing budget allocation trends over time.
+4. We collected data from multiple reliable sources to ensure accuracy and comprehensiveness.
+
+### Data Analysis
+1. Tracked patterns in budget allocation across presidential terms.
+2. Compared year‑to‑year changes to identify anomalies or shifts in priorities.
+3. Highlighted correlations between leadership changes and spending trends.
+   
+### Visualization
+Created charts to make findings accessible
+
+### Validation
+1. Cross‑checked results against official government reports and external references.
+2. Verified consistency of trends with historical policy shifts.
+3. Ensured reproducibility by documenting the workflow and versioning the dataset.
 
 ## Insights and Analysis
 
